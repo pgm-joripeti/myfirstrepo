@@ -8,7 +8,7 @@ My First Repo | Associate Degree in Computer Programming | Artevelde University 
 |           |                                |
 | --------- | ------------------------------ |
 | Firstname | Joris                       |
-| Lastname  | Petilloin          |
+| Lastname  | Petillion          |
 | Gender    | :male_sign:                    |
 | Email     | joris.petillion@student.arteveldehs.be |
 
